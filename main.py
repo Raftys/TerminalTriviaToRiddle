@@ -11,3 +11,7 @@ if __name__ == "__main__":
 
     # Start the main game loop
     play_game()
+
+    # Wait to exit
+    input("\nPress Enter to exit...")
+    
