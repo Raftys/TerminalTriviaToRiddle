@@ -1,0 +1,15 @@
+co_op_terminal_game/      # Root folder of the game
+│
+├─ main.py                 # Main script that runs the game
+├─ config.py               # Printing functions and game messages
+├─ data/
+│   ├─ questions.json      # List of all questions and correct answers
+│   ├─ letters_mapping.json  # Custom mapping: letters → numbers
+│
+├─ modules/                # Extra modules / game logic
+│   ├─ puzzles.py          # Core game logic for questions
+│   ├─ final_phrase.py     # Functions for final riddle and reveal
+│   ├─ utils.py            # Helper utility functions
+│
+├─ README.md               # Game description and instructions
+└─ requirements.txt        # List of dependencies

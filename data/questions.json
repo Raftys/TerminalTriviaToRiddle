@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "question": "What is my desktop's CPU brand?",
+    "preview": "_  _  _  _  _",
+    "answer": "INTEL"
+  },
+  {
+    "id": 2,
+    "question": "What crashes when I open 46 tabs?",
+    "preview": "_  _  _  _  _  _  _",
+    "answer": "WINDOWS"
+  },
+  {
+    "id": 3,
+    "question": "What browser do We open only to download Chrome?",
+    "preview": "_  _  _  _",
+    "answer": "EDGE"
+  },
+  {
+    "id": 4,
+    "question": "Where does dust go to start a new civilization?",
+    "preview": "_  _  _  _",
+    "answer": "CASE"
+  },
+  {
+    "id": 5,
+    "question": "What steals RAM like a crypto miner?",
+    "preview": "_  _  _  _  _  _",
+    "answer": "CHROME"
+  },
+  {
+    "id": 6,
+    "question": "What do We never clean until it stops working or get noisy?",
+    "preview": "_  _  _  _",
+    "answer": "FANS"
+  },
+  {
+    "id": 7,
+    "question": "What must a screen have according to you?",
+    "preview": "_  _  _  _  _  _  _  _",
+    "answer": "SPEAKERS"
+  },
+  {
+    "id": 8,
+    "question": "What mode does your PC enter when you're idle for too long?",
+    "preview": "_  _  _  _  _",
+    "answer": "SLEEP"
+  },
+  {
+    "id": 9,
+    "question": "What connector do I flip 3 times before it plugs?",
+    "preview": "_  _  _",
+    "answer": "USB"
+  },
+  {
+    "id": 10,
+    "question": "What do We blame when lag ruins my game?",
+    "preview": "_  _  _  _",
+    "answer": "WIFI"
+  },
+  {
+    "id": 11,
+    "question": "You’ve completed all questions! Time to reveal the answer.",
+    "preview": "_  _  _  _  _   _  _  _  _  _   _  _   _  _  _  _",
+    "answer": "CHECK UNDER MY DESK"
+  }
+]
