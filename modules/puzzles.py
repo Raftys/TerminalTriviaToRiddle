@@ -90,7 +90,7 @@ def play_game():
     # Final Section
     print("\n" + "= " * 50)
     print("\n" + "= " * 50)
-    print("Collected letters:", collected_letters)
+    print_letters(collected_letters)
 
     # The 11th item is assumed to be the final riddle
     play_riddle(questions[10], letters_mapping, collected_letters)
